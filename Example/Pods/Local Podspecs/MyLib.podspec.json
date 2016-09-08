@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of MyLib.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/MyLib",
+  "homepage": "https://github.com/appchemist/MyLib",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "appchemist": "dct012@gmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/MyLib.git",
+    "git": "https://github.com/appchemist/MyLib.git",
     "tag": "0.1.0"
   },
   "platforms": {
